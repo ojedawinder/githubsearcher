@@ -1,2 +1,2 @@
 # githubsearcher
-Search of github profiles
+Search of github profiles by @ojedawinder
